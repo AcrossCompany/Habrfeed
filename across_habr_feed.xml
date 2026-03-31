@@ -1,201 +1,159 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-03 10:30">
-    <shop>
-        <name>Across Courses Feed</name>
-        <company>Across</company>
-        <url>https://acrosscompany.ru</url>
-
-        <currencies>
-            <currency id="RUB" rate="1"/>
-        </currencies>
-
-        <offers>
-
-            <!-- 1 -->
-            <offer id="1" available="true">
-                <name>Английский для собеседований для ИТ и диджитал без финального собеседования с международным рекрутером</name>
-                <url>https://acrosscompany.ru/englishforjobinterviews?utm_source=habr_career</url>
-                <price>22110</price>
-                <oldprice>22110</oldprice>
-                <currencyId>RUB</currencyId>
-                <specialization>Языки</specialization>
-                <param name="Дата начала">В любой момент</param>
-                <duration unit="month">1</duration>
-                <skills>
-                    <skill>Английский язык</skill>
-                    <skill>Разговорный английский</skill>
-                    <skill>Английский для IT</skill>
-                    <skill>Английский для собеседования</skill>
-                </skills>
-                <description>Практическая программа подготовки к собеседованию в международную компанию в сфере ИТ и диджитал. Отдельные версии курса для разработчиков, тестировщиков, аналитиков, руководителей проектов и Scrum-мастеров, ERP-специалистов и маркетологов. Курс помогает уверенно проходить интервью на английском языке, структурировать ответы, грамотно презентовать профессиональный опыт и демонстрировать компетенции. 
+<yml_catalog date="2026-03-31 14:30">
+	<shop>
+		<name>Across Courses Feed</name>
+		<company>Across</company>
+		<url>https://acrosscompany.ru</url>
+		<currencies>
+			<currency id="RUB" rate="1"/>
+		</currencies>
+		<offers>
+			<!-- 1 -->
+			<offer id="1" available="true">
+				<name>Английский для собеседований для ИТ и диджитал без финального собеседования с международным рекрутером</name>
+				<url>https://acrosscompany.ru/englishforjobinterviews?utm_source=habr_career</url>
+				<price>22110</price>
+				<oldprice>22110</oldprice>
+				<currencyId>RUB</currencyId>
+				<specialization>Языки</specialization>
+				<param name="Дата начала">В любой момент</param>
+				<duration unit="month">1</duration>
+				<skills>
+					<skill>Английский язык</skill>
+					<skill>Разговорный английский</skill>
+					<skill>Английский для IT</skill>
+					<skill>Английский для собеседования</skill>
+				</skills>
+				<description>Практическая программа подготовки к собеседованию в международную компанию в сфере ИТ и диджитал. Отдельные версии курса для разработчиков, тестировщиков, аналитиков, руководителей проектов и Scrum-мастеров, ERP-специалистов и маркетологов. Курс помогает уверенно проходить интервью на английском языке, структурировать ответы, грамотно презентовать профессиональный опыт и демонстрировать компетенции. 
 В программе: подготовка резюме и адаптация сопроводительных писем, оформление профиля в LinkedIn, тренировка ответов на технические и поведенческие вопросы, развитие деловой переписки и навыков общения с рекрутерами. Подходит для студентов со средним уровнем (Intermediate) и выше.</description>
-                <param name="Оплата в рассрочку">Нет</param>
-                <param name="Формат занятий">online</param>
-                <param name="Выдаётся сертификат">Да</param>
-                <param name="Помощь с трудоустройством">Нет</param>
-            </offer>
-
-            <!-- 2 -->
-            <offer id="2" available="true">
-                <name>Английский для собеседований для ИТ и диджитал c финальным пробным собеседованием с международным рекрутером</name>
-                <url>https://acrosscompany.ru/englishforjobinterviews?utm_source=habr_career</url>
-                <price>27418</price>
-                <oldprice>27418</oldprice>
-                <currencyId>RUB</currencyId>
-                <specialization>Языки</specialization>
-                <param name="Дата начала">В любой момент</param>
-                <duration unit="month">1</duration>
-                <skills>
-                    <skill>Английский язык</skill>
-                    <skill>Разговорный английский</skill>
-                    <skill>Английский для IT</skill>
-                    <skill>Английский для собеседования</skill>
-                </skills>
-                <description>Практическая программа подготовки к собеседованию в международную компанию в сфере ИТ и диджитал с финальным пробным интервью с международным рекрутером. 
+				<param name="Оплата в рассрочку">Нет</param>
+				<param name="Формат занятий">online</param>
+				<param name="Выдаётся сертификат">Да</param>
+				<param name="Помощь с трудоустройством">Нет</param>
+			</offer>
+			<!-- 2 -->
+			<offer id="2" available="true">
+				<name>Английский для собеседований для ИТ и диджитал c финальным пробным собеседованием с международным рекрутером</name>
+				<url>https://acrosscompany.ru/englishforjobinterviews?utm_source=habr_career</url>
+				<price>27418</price>
+				<oldprice>27418</oldprice>
+				<currencyId>RUB</currencyId>
+				<specialization>Языки</specialization>
+				<param name="Дата начала">В любой момент</param>
+				<duration unit="month">1</duration>
+				<skills>
+					<skill>Английский язык</skill>
+					<skill>Разговорный английский</skill>
+					<skill>Английский для IT</skill>
+					<skill>Английский для собеседования</skill>
+				</skills>
+				<description>Практическая программа подготовки к собеседованию в международную компанию в сфере ИТ и диджитал с финальным пробным интервью с международным рекрутером. 
 Курс помогает уверенно проходить интервью на английском языке, структурировать ответы, грамотно презентовать профессиональный опыт и демонстрировать компетенции. Отдельные версии курса для разработчиков, тестировщиков, аналитиков, руководителей проектов и Scrum-мастеров, ERP-специалистов и маркетологов.
 В программе: подготовка резюме и адаптация сопроводительных писем, оформление профиля в LinkedIn, тренировка ответов на технические и поведенческие вопросы, развитие деловой переписки и навыков общения с рекрутерами. Подходит для студентов со средним уровнем (Intermediate) и выше. Курс завершается пробным собеседованием с международным рекрутером и подробной обратной связью.</description>
-                <param name="Оплата в рассрочку">Нет</param>
-                <param name="Формат занятий">online</param>
-                <param name="Выдаётся сертификат">Да</param>
-                <param name="Помощь с трудоустройством">Нет</param>
-            </offer>
+				<param name="Оплата в рассрочку">Нет</param>
+				<param name="Формат занятий">online</param>
+				<param name="Выдаётся сертификат">Да</param>
+				<param name="Помощь с трудоустройством">Нет</param>
+			</offer>
+			<!-- 3 -->
+			<offer id="3" available="true">
+				<name>Английский для тестировщиков — индивидуальные занятия (23 часа)</name>
+				<url>https://acrosscompany.ru/acrossenglishforqaengineers?utm_source=habr_career</url>
+				<price>45800</price>
+				<oldprice>45800</oldprice>
+				<currencyId>RUB</currencyId>
+				<specialization>Языки</specialization>
+				<param name="Дата начала">В любой момент</param>
+				<duration unit="month">1</duration>
+				<skills>
+					<skill>Английский язык</skill>
+					<skill>Разговорный английский</skill>
+					<skill>Английский для IT</skill>
+					<skill>Деловой английский</skill>
+				</skills>
+				<description>Разговорный курс английского для тестировщиков с подготовкой к собеседованиям и работе в международных ИТ-компаниях. В программе: подготовка резюме и профиля LinkedIn, тренировка ответов на технические и поведенческие вопросы, написание отчетов об ошибках и тест-кейсов, коммуникация с коллегами и заказчиком в международной команде, обсуждение дефектов и их причин, участие в основных встречах команды в качестве тестировщика: планирование спринта, дейли, демо, ретроспектива. Подходит для студентов со средним уровнем (Intermediate) и выше. Индивидуальные занятия — 23 часа.</description>
+				<param name="Оплата в рассрочку">Нет</param>
+				<param name="Формат занятий">online</param>
+				<param name="Выдаётся сертификат">Да</param>
+				<param name="Помощь с трудоустройством">Нет</param>
+			</offer>
+			<!-- 4 -->
+			<offer id="4" available="true">
+				<name>Английский для тестировщиков — индивидуальные занятия с финальным собеседованием (24 часа)</name>
+				<url>https://acrosscompany.ru/acrossenglishforqaengineers?utm_source=habr_career</url>
+				<price>52800</price>
+				<oldprice>52800</oldprice>
+				<currencyId>RUB</currencyId>
+				<specialization>Языки</specialization>
+				<param name="Дата начала">В любой момент</param>
+				<duration unit="month">1</duration>
+				<skills>
+					<skill>Английский язык</skill>
+					<skill>Разговорный английский</skill>
+					<skill>Английский для IT</skill>
+					<skill>Деловой английский</skill>
+				</skills>
+				<description>Разговорный курс английского для тестировщиков с углублённой подготовкой к собеседованиям. В программе: подготовка резюме и профиля LinkedIn, тренировка ответов на технические и поведенческие вопросы, написание отчетов об ошибках и тест-кейсов, коммуникация с коллегами и заказчиком в международной команде, обсуждение дефектов и их причин, участие в основных встречах команды в качестве тестировщика: планирование спринта, дейли, демо, ретроспектива. Подходит для студентов со средним уровнем (Intermediate) и выше. Индивидуальные занятия — 24 часа. Курс завершается пробным собеседованием с ментором-тестировщиком и подробной обратной связью.</description>
+				<param name="Оплата в рассрочку">Нет</param>
+				<param name="Формат занятий">online</param>
+				<param name="Выдаётся сертификат">Да</param>
+				<param name="Помощь с трудоустройством">Нет</param>
+			</offer>
+			<!-- 5 -->
+			<offer id="5" available="true">
+				<name>Английский по сериалу "Кремниевая долина"</name>
+				<url>https://acrosscompany.ru/silicon_valley?utm_source=habr_career</url>
+				<price>18425</price>
+				<oldprice>18425</oldprice>
+				<currencyId>RUB</currencyId>
+				<specialization>Языки</specialization>
+				<param name="Дата начала">В любой момент</param>
+				<duration unit="month">1</duration>
+				<skills>
+					<skill>Английский язык</skill>
+					<skill>Разговорный английский</skill>
+					<skill>Английский для IT</skill>
+				</skills>
+				<description>Для всех, кто интересуется сферой ИТ и хочет прокачивать английский с удовольствием по культовому сериалу “Кремниевая долина”. Цель курса — посмотреть на мир ИТ-стартапов и компаний изнутри, а заодно прокачать английский. Подходит для студентов со средним уровнем (Intermediate) и выше. Занятия один на один с преподавателем. Живые онлайн-уроки на платформе. Длительность курса — 10 часов.</description>
+				<param name="Оплата в рассрочку">Нет</param>
+				<param name="Формат занятий">online</param>
+				<param name="Выдаётся сертификат">Да</param>
+				<param name="Помощь с трудоустройством">Нет</param>
+			</offer>
+			<!-- 8 -->
+			<offer id="8" available="true">
+				<name>Бесплатный прямой эфир «Как разработчику найти работу в Германии»</name>
+				<url>https://acrosscompany.ru/networking-club?utm_source=habr_career</url>
+				<price>0</price>
+				<oldprice>0</oldprice>
+				<currencyId>RUB</currencyId>
+				<specialization>Языки</specialization>
+				<param name="Дата начала">2026-04-08 20:00</param>
+				<duration unit="day">1</duration>
+				<skills>
+					<skill>Английский язык</skill>
+					<skill>Коммуникация</skill>
+					<skill>Карьерное развитие</skill>
+					<skill>Поиск работы</skill>
+				</skills>
+				<description>Ярослав Гиндич, разработчик и студент Across, искал работу в Германии 1,5 года.
 
-            <!-- 3 -->
-            <offer id="3" available="true">
-                <name>Английский для тестировщиков — индивидуальные занятия (23 часа)</name>
-                <url>https://acrosscompany.ru/acrossenglishforqaengineers?utm_source=habr_career</url>
-                <price>45800</price>
-                <oldprice>45800</oldprice>
-                <currencyId>RUB</currencyId>
-                <specialization>Языки</specialization>
-                <param name="Дата начала">В любой момент</param>
-                <duration unit="month">1</duration>
-                <skills>
-                    <skill>Английский язык</skill>
-                    <skill>Разговорный английский</skill>
-                    <skill>Английский для IT</skill>
-                    <skill>Деловой английский</skill>
-                </skills>
-                <description>Разговорный курс английского для тестировщиков с подготовкой к собеседованиям и работе в международных ИТ-компаниях. В программе: подготовка резюме и профиля LinkedIn, тренировка ответов на технические и поведенческие вопросы, написание отчетов об ошибках и тест-кейсов, коммуникация с коллегами и заказчиком в международной команде, обсуждение дефектов и их причин, участие в основных встречах команды в качестве тестировщика: планирование спринта, дейли, демо, ретроспектива. Подходит для студентов со средним уровнем (Intermediate) и выше. Индивидуальные занятия — 23 часа.</description>
-                <param name="Оплата в рассрочку">Нет</param>
-                <param name="Формат занятий">online</param>
-                <param name="Выдаётся сертификат">Да</param>
-                <param name="Помощь с трудоустройством">Нет</param>
-            </offer>
+Если вам интересно послушать не историю «успешного успеха», а настоящий путь с ошибками и трезвым взглядом на рынок Европы, присоединяйтесь к бесплатному прямому эфиру 8 апреля в 20:00 МСК.
 
-            <!-- 4 -->
-            <offer id="4" available="true">
-                <name>Английский для тестировщиков — индивидуальные занятия с финальным собеседованием (24 часа)</name>
-                <url>https://acrosscompany.ru/acrossenglishforqaengineers?utm_source=habr_career</url>
-                <price>52800</price>
-                <oldprice>52800</oldprice>
-                <currencyId>RUB</currencyId>
-                <specialization>Языки</specialization>
-                <param name="Дата начала">В любой момент</param>
-                <duration unit="month">1</duration>
-                <skills>
-                    <skill>Английский язык</skill>
-                    <skill>Разговорный английский</skill>
-                    <skill>Английский для IT</skill>
-                    <skill>Деловой английский</skill>
-                </skills>
-                <description>Разговорный курс английского для тестировщиков с углублённой подготовкой к собеседованиям. В программе: подготовка резюме и профиля LinkedIn, тренировка ответов на технические и поведенческие вопросы, написание отчетов об ошибках и тест-кейсов, коммуникация с коллегами и заказчиком в международной команде, обсуждение дефектов и их причин, участие в основных встречах команды в качестве тестировщика: планирование спринта, дейли, демо, ретроспектива. Подходит для студентов со средним уровнем (Intermediate) и выше. Индивидуальные занятия — 24 часа. Курс завершается пробным собеседованием с ментором-тестировщиком и подробной обратной связью.</description>
-                <param name="Оплата в рассрочку">Нет</param>
-                <param name="Формат занятий">online</param>
-                <param name="Выдаётся сертификат">Да</param>
-                <param name="Помощь с трудоустройством">Нет</param>
-            </offer>
+Что обсудим:
+— как на самом деле проходят интервью в Европе для разработчиков;
+— что происходит на live coding и system design;
+— почему сеньоры становятся «джунами» при переезде;
+— сколько нужно собеседований, чтобы получить оффер;
+— какой английский будет достаточным;
+— что вообще сейчас происходит с рынком Германии в 2026.
 
-            <!-- 5 -->
-            <offer id="5" available="true">
-                <name>Английский по сериалу "Кремниевая долина"</name>
-                <url>https://acrosscompany.ru/silicon_valley?utm_source=habr_career</url>
-                <price>18425</price>
-                <oldprice>18425</oldprice>
-                <currencyId>RUB</currencyId>
-                <specialization>Языки</specialization>
-                <param name="Дата начала">В любой момент</param>
-                <duration unit="month">1</duration>
-                <skills>
-                    <skill>Английский язык</skill>
-                    <skill>Разговорный английский</skill>
-                    <skill>Английский для IT</skill>
-                </skills>
-                <description>Для всех, кто интересуется сферой ИТ и хочет прокачивать английский с удовольствием по культовому сериалу “Кремниевая долина”. Цель курса — посмотреть на мир ИТ-стартапов и компаний изнутри, а заодно прокачать английский. Подходит для студентов со средним уровнем (Intermediate) и выше. Занятия один на один с преподавателем. Живые онлайн-уроки на платформе. Длительность курса — 10 часов.</description>
-                <param name="Оплата в рассрочку">Нет</param>
-                <param name="Формат занятий">online</param>
-                <param name="Выдаётся сертификат">Да</param>
-                <param name="Помощь с трудоустройством">Нет</param>
-            </offer>
-
-   
-
-<!-- 6 -->
-<offer id="6" available="true">
-    <name>Бесплатный разговорный клуб для ИТ-специалистов</name>
-    <url>https://acrosscompany.ru/networking-club?utm_source=habr_career</url>
-    <price>0</price>
-    <oldprice>0</oldprice>
-    <currencyId>RUB</currencyId>
-
-    <specialization>Языки</specialization>
-
-    <param name="Дата начала">2026-03-02</param>
-    <duration unit="day">1</duration>
-
-    <skills>
-        <skill>Английский язык</skill>
-        <skill>Разговорный английский</skill>
-        <skill>Английский для IT</skill>
-    </skills>
-
-    <description>
-Бесплатный разговорный клуб для ИТ-специалистов. Участники практикуют живое общение на английском языке, обсуждают профессиональные темы и знакомятся с коллегами из разных уголков мира. Встречи помогают поддерживать разговорную речь, расширять профессиональные контакты и чувствовать себя увереннее в общении на английском.
-    </description>
-
-    <param name="Оплата в рассрочку">Нет</param>
-    <param name="Формат занятий">online</param>
-    <param name="Выдаётся сертификат">Нет</param>
-    <param name="Помощь с трудоустройством">Нет</param>
-</offer>
-
-
-<!-- 7 -->
-<offer id="7" available="true">
-    <name>Практикум «События Scrum-команды на практике»</name>
-    <url>https://acrosscompany.ru/practicums#join?utm_source=habr_career</url>
-    <price>6600</price>
-    <oldprice>6600</oldprice>
-    <currencyId>RUB</currencyId>
-
-    <specialization>Языки</specialization>
-
-    <param name="Дата начала">2026-03-09</param>
-    <duration unit="week">5</duration>
-
-    <skills>
-        <skill>Английский язык</skill>
-        <skill>Разговорный английский</skill>
-        <skill>Английский для IT</skill>
-        <skill>Деловой английский</skill>
-    </skills>
-
-    <description>
-Практикум «События Scrum-команды на практике» для специалистов ИТ, которые хотят научиться участвовать во встречах Scrum на английском языке. Подходит для участников команд, где используется Scrum, и для студентов с уровнем английского Intermediate и выше.
-
-Практикум рассчитан на разные роли: разработчиков, тестировщиков, аналитиков и владельцев продукта. Участники получают живую практику рабочих встреч и полезные выражения для различных ситуаций.
-
-Программа включает пять онлайн-встреч по 60 минут в мини-группах (3–4 человека и преподаватель). Участники практикуют все события Scrum: планирование спринта, ежедневный Scrum, демонстрацию результата, ретроспективу и встречу по уточнению бэклога.
-
-Занятия проходят на основе единого бизнес-кейса — разработки обучающей платформы. Перед каждой встречей участники получают роли и полезные выражения, после занятий — подробную обратную связь от преподавателя.
-    </description>
-
-    <param name="Оплата в рассрочку">Нет</param>
-    <param name="Формат занятий">online</param>
-    <param name="Выдаётся сертификат">Да</param>
-    <param name="Помощь с трудоустройством">Нет</param>
-</offer>
-     </offers>
-    </shop>
+Встреча пройдет на русском языке в формате интервью. У участников будет возможность задать свои вопросы.</description>
+				<param name="Оплата в рассрочку">Нет</param>
+				<param name="Формат занятий">online</param>
+				<param name="Выдаётся сертификат">Нет</param>
+				<param name="Помощь с трудоустройством">Нет</param>
+			</offer>
+		</offers>
+	</shop>
 </yml_catalog>
-
